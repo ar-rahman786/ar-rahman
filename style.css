@@ -1,0 +1,183 @@
+*{
+    margin: 0; padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.bar{
+    margin-right: 125px;
+}
+
+
+.navbar-brand{
+    margin-left: 125px;
+}
+
+
+.mic{
+    margin-left: 75px;
+}
+
+.mylogo{
+    border-radius: 25px;
+    border: solid blue;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.buttons a{
+    width: 120px; 
+    margin-top: 6px;
+}
+
+.row{
+    bottom: 0;
+    right: 0;
+    justify-content: center;
+}
+
+.logo{
+    border: solid skyblue;
+    margin-top: 45px;
+    border-radius: 8px;
+}
+
+.comname{
+    color: black;
+    padding-right: 20px;
+    background-color: unset !important;
+    color: unset !important;
+    text-decoration:none;
+    
+
+
+}
+
+.privacy{
+    color: black;
+    padding-right: 20px;
+    background-color: unset !important;
+    color: unset !important;
+    text-decoration:none;
+    
+
+}
+
+.trem{
+    color: black;
+    padding-right: 20px;
+    background-color: unset !important;
+    color: unset !important;
+    text-decoration:none;
+   
+
+}
+
+.date{
+    padding-right: 20px;
+    color: white;
+    
+    
+
+}
+
+.footerstyle{
+    background-color: black;
+    color: white;
+    padding-bottom: 5px;
+}
+
+
+.wel{
+    color: blue;
+}
+
+.jumbotron{
+    background-image: url("tp.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.serhr{
+    background-color: blue;
+}
+
+.abhr{
+    background-color: blue;
+}
+
+.conhr{
+    background-color: blue;
+}
+
+.servicescolor{
+    color: blue;
+}
+
+.faceicon{
+    width: 30px;
+    height: 25px;
+    margin-right: 35px;
+    border: solid white;
+    margin-bottom: 5px;
+    border-radius: 6px;
+    
+
+}
+
+.instaicon{
+    width: 30px;
+    height: 25px;
+    margin-right: 35px;
+    border: solid white;
+    margin-bottom: 5px;
+    border-radius: 6px;
+
+}
+.googleicon{
+    width: 30px;
+    height: 25px;
+    margin-right: 35px;
+    border: solid white;
+    margin-bottom: 5px;
+    border-radius: 6px;
+
+}
+
+.linkicon{
+    width: 30px;
+    height: 25px;
+    margin-right: 35px;
+    border: solid white;
+    margin-bottom: 5px;
+    border-radius: 6px;
+
+}
+.twiticon{
+    width: 30px;
+    height: 25px;
+    border: solid white;
+    margin-bottom: 5px;
+    border-radius: 6px;
+
+}
+
+.cardborder{
+    border: solid skyblue;
+    border-radius: 8px;
+    margin-top: 8px;
+}
+
+
+
+.contactphoto{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    border: solid skyblue;
+    border-radius: 8px;
+}
+
